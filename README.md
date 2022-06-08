@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="fire-it.gif" alt="drawing" style="width:900px; height:500px;"/>
+  <img src="fire-it.gif" alt="drawing" style="width:1800px; height:1000px;"/>
 </p>
 <h1 align="center">Hi 👋, I'm Ahmed Nossir</h1>
 <h3 align="center">Undergraduate Frontend Developer</h3>
